@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Danivi6502.aternos.me",
+    "ip": "Danivi6502.aternos.me:22583",
     "port": 22583,
     "version": "1.21.1"
   },
